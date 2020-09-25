@@ -2,7 +2,7 @@
   [0],
   {
     20: function (e, n, t) {
-      e.exports = t.p + "./static/media/cryptomonedas.96e45d69.png";
+      e.exports = t.p + "static/media/cryptomonedas.96e45d69.png";
     },
     21: function (e, n, t) {
       e.exports = t(46);
@@ -502,4 +502,4 @@
   },
   [[21, 1, 2]],
 ]);
-//# sourceMappingURL=main.1dc7a1ab.chunk.js.map
+//# sourceMappingURL=main.1fdf9f5c.chunk.js.map

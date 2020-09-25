@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import styled from '@emotion/styled';
-import imagen from './cryptomonedas.png'
+import imagen from './assets/cryptomonedas.png'
 import Form from './components/Form';
 import { helperCalcularCrypto } from './helpers/consultarAPI';
 import Cotizacion from './components/Cotizacion';
